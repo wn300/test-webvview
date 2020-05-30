@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-webvview"
+    }
+  },
+  "defaultProject": "test-webvview",
+  "cli": {
+    "analytics": "577abfd3-ba68-476f-b557-605a94ea9983"
+  }
 }
